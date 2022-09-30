@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>Ola</h2>
 <h2>Estou estudando CSS e HTML  e aprendend  muita coisa</h2>
-< h2> Busco me tornar um progrdor Full  Stack <h2>
+<h2>Pretendo me tornar um programador full stack<h2>
 <h2> e meu contato para e-mail é  726caiquecoutor@gmail.com<h2>
   
